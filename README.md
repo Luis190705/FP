@@ -19,4 +19,6 @@ vista numerada
 
 **nigger**
 
+_italica texto_
 
+**_italoca negrita_**
