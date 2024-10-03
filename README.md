@@ -23,5 +23,5 @@ _italica texto_
 
 **_italoca negrita_**
 
-!{imagen programacion}(https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513-2048x1024.jpg)
+!{imagen programacion}(https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513-2048x1024.jpg)¡
 
