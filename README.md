@@ -1,4 +1,7 @@
 # Titulo 1
+
+![imagen programacion](https://i.imgflip.com/602fn0.jpg)
+
 ## Titulo 2
 ### Titulo 3
 #### Titulo 4
@@ -23,4 +26,3 @@ _italica texto_
 
 **_italoca negrita_**
 
-![imagen programacion](https://i.imgflip.com/602fn0.jpg)
