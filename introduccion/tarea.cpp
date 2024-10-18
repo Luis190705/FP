@@ -194,6 +194,9 @@ int main()
 	R = pow(3, 2);
 	cout << "resultado " << R << endl;
 
+	cout << "\n" << endl;
+	cout << "1.7" << endl;
+
 	//1.7
 
 	//comparacioes
